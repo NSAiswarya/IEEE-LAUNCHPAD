@@ -1,8 +1,7 @@
-# Full Name 
+N S Aiswarya 
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
+my name is NS Aiswarya.
 
 
 ## Portfolio Highlights
