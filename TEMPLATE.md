@@ -1,7 +1,9 @@
 N S Aiswarya 
 
 ### About Me
-my name is NS Aiswarya.
+Hello, my name is N S Aiswarya. I am a Computer Science student currently pursuing my MSc at SAS SNDP Yogam College, Konni. I graduated with a Bachelor's degree in Computer Science, achieving a 70% score. I have experience in various programming languages including Python, Java, C, and C++, and I'm skilled in web development using HTML, PHP, and ASP.NET.I have worked on several projects, such as an online book shopping platform, an art gallery website, a home automation system using IoT, and a machine learning model for recruitment management. These projects have helped me develop strong problem-solving and technical skills.In addition to my technical abilities, I have good communication and time management skills. I have participated in the Young Innovators Programme by Kerala Startup Mission and received several certifications from TCS iON.I am fluent in English, Tamil, Hindi, and Malayalam. My interests include reading, machine learning, coding, vlogging, and web development. I am eager to gain practical experience and contribute to innovative projects in a forward-thinking company.
+
+
 
 
 ## Portfolio Highlights
@@ -10,7 +12,7 @@ my name is NS Aiswarya.
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Online Art Gallery**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
