@@ -19,11 +19,11 @@ Hello, my name is N S Aiswarya. I am a Computer Science student currently pursui
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- my leadership and influencing skills are demonstrated through my successful management of projects, participation in innovative programs, commitment to continuous learning, and effective communication abilities. These experiences have equipped me with the necessary skills to be a leader and influencer in my domain, capable of guiding teams and inspiring peers towards achieving common goals.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- My effective communication skills, both online and offline, help me build meaningful relationships. I engage with communities through forums, social media, and by organizing workshops and webinars. By sharing my knowledge through blogs and tutorials, and leading collaborative projects, I influence and inspire others in the field. My goal is to create a supportive network that encourages continuous learning and innovation.
 
 #### Career Plan:
 
