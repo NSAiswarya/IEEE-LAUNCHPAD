@@ -12,8 +12,10 @@ Hello, my name is N S Aiswarya. I am a Computer Science student currently pursui
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Online Art Gallery**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Online Art Gallery**  | The online Art Gallery project is a web-based platform developed using HTML, PHP, and Python. It serves as a virtual space for artists to showcase their artworks and for art enthusiasts to explore and purchase art pieces 
+| [Hosted Link 1](https://example.com)    | [Repo Link(https://github.com/username/project1)    |
+| **Recruitment system**  | Developed machine learning model in Google Colab for recruitment, predicting candidate suitability from resumes and job descriptions. Automated candidate screening, reducing HR workload. Technologies: Python, Google Colab, Pandas, Scikit-Learn
+| [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)  |
 
 #### Leadership and Influence:
 
