@@ -1,4 +1,4 @@
-N S Aiswarya 
+hi, i am N S Aiswarya 
 
 ### About Me
 Hello, my name is N S Aiswarya. I am a Computer Science student currently pursuing my MSc at SAS SNDP Yogam College, Konni. I graduated with a Bachelor's degree in Computer Science, achieving a 70% score. I have experience in various programming languages including Python, Java, C, and C++, and I'm skilled in web development using HTML, PHP, and ASP.NET.I have worked on several projects, such as an online book shopping platform, an art gallery website, a home automation system using IoT, and a machine learning model for recruitment management. These projects have helped me develop strong problem-solving and technical skills.In addition to my technical abilities, I have good communication and time management skills. I have participated in the Young Innovators Programme by Kerala Startup Mission and received several certifications from TCS iON.I am fluent in English, Tamil, Hindi, and Malayalam. My interests include reading, machine learning, coding, vlogging, and web development. I am eager to gain practical experience and contribute to innovative projects in a forward-thinking company.
@@ -27,8 +27,8 @@ Hello, my name is N S Aiswarya. I am a Computer Science student currently pursui
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
-
+- Offer mentorship to young innovators and students, sharing my experiences and guiding them through their startup journey
+- Establish a startup incubator that provides resources, mentorship, and funding opportunities to early-stage startups in Kerala.
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
