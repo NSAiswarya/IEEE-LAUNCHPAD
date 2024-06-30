@@ -40,12 +40,13 @@ Hello, my name is N S Aiswarya. I am a Computer Science student currently pursui
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  I have been an active member of Stack Overflow, where I regularly answer questions related to programming languages such as Python, Java, and C++, as well as topics in web development and machine learning.
+-   I contribute to various open-source projects on GitHub, both by developing my own projects and by contributing to others.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
+- I have created a variety of technical content that has garnered significant visibility and engagement within the tech community.
+- Building a Home Automation System Using IoT, Machine Learning for Recruitment: Predicting Candidate Suitability,Creating a Responsive Online Art Gallery with HTML, PHP, and Python
 #### Highly Used Software Tools:
 
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
