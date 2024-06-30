@@ -35,7 +35,8 @@ Hello, my name is N S Aiswarya. I am a Computer Science student currently pursui
 -  Creating an attractive environment for talent through competitive salaries, quality of life improvements, and opportunities for professional growth can help retain skilled professionals in the state.
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I have actively contributed to the open-source community, focusing on both my own projects and contributions to popular open-source initiatives
+- my open source contribution are online book shopping,online Art gallery,Home automation system unisg Iot
 
 #### History of Community Engagement:
 
