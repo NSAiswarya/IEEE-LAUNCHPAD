@@ -47,14 +47,6 @@ Hello, my name is N S Aiswarya. I am a Computer Science student currently pursui
 
 - I have created a variety of technical content that has garnered significant visibility and engagement within the tech community.
 - Building a Home Automation System Using IoT, Machine Learning for Recruitment: Predicting Candidate Suitability,Creating a Responsive Online Art Gallery with HTML, PHP, and Python
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
 
 
 > In your portfolio, include the following details:
