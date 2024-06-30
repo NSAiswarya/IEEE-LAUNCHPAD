@@ -31,8 +31,8 @@ Hello, my name is N S Aiswarya. I am a Computer Science student currently pursui
 - Establish a startup incubator that provides resources, mentorship, and funding opportunities to early-stage startups in Kerala.
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
+- Kerala has immense potential to excel in the technology startup ecosystem, leveraging its rich talent pool, supportive government policies, and growing infrastructure.
+-  Creating an attractive environment for talent through competitive salaries, quality of life improvements, and opportunities for professional growth can help retain skilled professionals in the state.
 #### History of Open Source Contributions:
 
 - Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
